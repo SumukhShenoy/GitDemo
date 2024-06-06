@@ -4,5 +4,6 @@ public class Basics {
   public static void main(String[] args) {
     count++;
     System.out.println(count);
+    System.out.println("Learning GIT is interesting!!");
   }
 }
