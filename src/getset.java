@@ -28,7 +28,7 @@ class People{
 	}
 	 {
 		 System.out.println("Heyyyy!"+ "\nMy name is Sumukh");
-		 System.out.println("This is Develop Branch!");
+		 System.out.println("Lets merge to master!");
 	 }
 
 }
